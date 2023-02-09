@@ -47,7 +47,7 @@
                         } else {
                         ?>
                         <h1 class="page-header">
-                        Ad Astra Abyssosque
+                        Hoshitosi
                         <small>welcome Traveller</small>
                         </h1>
 
